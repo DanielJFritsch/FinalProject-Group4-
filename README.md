@@ -8,6 +8,7 @@ Daniel J Fritsch - DJF122@pitt.edu
 Harris A Roberts - HAR131@pitt.edu
 
 Data Sets and Links:
+
 Harris - Arrest Data - Contains information on people taken into custody by City of Pittsburgh police officers - https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
 
 Daniel - Fire Incidents - Incidents of fire responded to by the Pittsburgh Bureau of Fire - https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh/resource/8d76ac6b-5ae8-4428-82a4-043130d17b02
