@@ -1,6 +1,7 @@
 # FinalProject-Group4-
 
-Team Name: Pickle   Group number: 4
+Team Name: Pickle   
+Group number: 4
 
 Members:
 Sahil Mishra - SAM735@pitt.edu
